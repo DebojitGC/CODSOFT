@@ -64,6 +64,7 @@ body {
     transition: background-color 0.3s;
 }
 
-.cta-button:hover {
+.learn-button:hover {
     background-color: #555;
+    transition : all 3s ease-in-out;
 }
